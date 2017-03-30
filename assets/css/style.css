@@ -9,7 +9,6 @@ html, body {
 }
 body {
     font-family: 'Open Sans', sans-serif;
-    line-height:25px;
     font-size:14px;
 }
 
@@ -17,7 +16,7 @@ body {
 .header-section {
   background-color:#065883;
   color:#fff;
-  padding:40px 5px;
+  padding:10px 5px;
 }
     .header-section img {
         max-width:150px;
@@ -25,9 +24,9 @@ body {
     }
 
 .spon-txt {
-    padding:20px 5px;
+    padding:15px 5px 5px 5px;
     font-size:25px;
-    font-weight:800;
+    font-weight:500;
 }
 
 .blog-main {
